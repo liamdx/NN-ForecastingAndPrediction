@@ -1,3 +1,3 @@
-# Forecasting and Prediction of NVDA asset using Neural Network
+# Forecasting and Prediction of Murders / Suicides in Australia asset using Neural Network
 
-See report for full details
+See report for full details, undertaken as part of masters. 
